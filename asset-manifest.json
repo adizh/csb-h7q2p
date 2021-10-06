@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "https://adizh.github.io/csb-h7q2p/static/css/main.3eb31789.chunk.css",
+    "main.js": "https://adizh.github.io/csb-h7q2p/static/js/main.e9f02e2a.chunk.js",
+    "main.js.map": "https://adizh.github.io/csb-h7q2p/static/js/main.e9f02e2a.chunk.js.map",
+    "runtime-main.js": "https://adizh.github.io/csb-h7q2p/static/js/runtime-main.ae00dba3.js",
+    "runtime-main.js.map": "https://adizh.github.io/csb-h7q2p/static/js/runtime-main.ae00dba3.js.map",
+    "static/css/2.050b219a.chunk.css": "https://adizh.github.io/csb-h7q2p/static/css/2.050b219a.chunk.css",
+    "static/js/2.b93ac75e.chunk.js": "https://adizh.github.io/csb-h7q2p/static/js/2.b93ac75e.chunk.js",
+    "static/js/2.b93ac75e.chunk.js.map": "https://adizh.github.io/csb-h7q2p/static/js/2.b93ac75e.chunk.js.map",
+    "index.html": "https://adizh.github.io/csb-h7q2p/index.html",
+    "static/css/2.050b219a.chunk.css.map": "https://adizh.github.io/csb-h7q2p/static/css/2.050b219a.chunk.css.map",
+    "static/css/main.3eb31789.chunk.css.map": "https://adizh.github.io/csb-h7q2p/static/css/main.3eb31789.chunk.css.map",
+    "static/js/2.b93ac75e.chunk.js.LICENSE.txt": "https://adizh.github.io/csb-h7q2p/static/js/2.b93ac75e.chunk.js.LICENSE.txt",
+    "static/media/Frame (3).aba04ab3.png": "https://adizh.github.io/csb-h7q2p/static/media/Frame (3).aba04ab3.png",
+    "static/media/Frame (4).7b3cb695.png": "https://adizh.github.io/csb-h7q2p/static/media/Frame (4).7b3cb695.png",
+    "static/media/Frame (5).c20d994c.png": "https://adizh.github.io/csb-h7q2p/static/media/Frame (5).c20d994c.png",
+    "static/media/Rectangle (1).32d45b86.png": "https://adizh.github.io/csb-h7q2p/static/media/Rectangle (1).32d45b86.png",
+    "static/media/Rectangle (10).aec894b2.png": "https://adizh.github.io/csb-h7q2p/static/media/Rectangle (10).aec894b2.png",
+    "static/media/Rectangle (11).31e03288.png": "https://adizh.github.io/csb-h7q2p/static/media/Rectangle (11).31e03288.png",
+    "static/media/Rectangle (12).7df601ec.png": "https://adizh.github.io/csb-h7q2p/static/media/Rectangle (12).7df601ec.png",
+    "static/media/Rectangle (2).72bc8bb3.png": "https://adizh.github.io/csb-h7q2p/static/media/Rectangle (2).72bc8bb3.png",
+    "static/media/Rectangle (3).5c1bbdfc.png": "https://adizh.github.io/csb-h7q2p/static/media/Rectangle (3).5c1bbdfc.png",
+    "static/media/Rectangle (4).bb420542.png": "https://adizh.github.io/csb-h7q2p/static/media/Rectangle (4).bb420542.png",
+    "static/media/Rectangle (5).a2c61e12.png": "https://adizh.github.io/csb-h7q2p/static/media/Rectangle (5).a2c61e12.png",
+    "static/media/Rectangle (6).d733edf3.png": "https://adizh.github.io/csb-h7q2p/static/media/Rectangle (6).d733edf3.png",
+    "static/media/Rectangle (7).816130ed.png": "https://adizh.github.io/csb-h7q2p/static/media/Rectangle (7).816130ed.png",
+    "static/media/Rectangle (8).4bbd3558.png": "https://adizh.github.io/csb-h7q2p/static/media/Rectangle (8).4bbd3558.png",
+    "static/media/Rectangle (9).ea9946c5.png": "https://adizh.github.io/csb-h7q2p/static/media/Rectangle (9).ea9946c5.png",
+    "static/media/Rectangle.49ffba91.png": "https://adizh.github.io/csb-h7q2p/static/media/Rectangle.49ffba91.png",
+    "static/media/problem.eb8e962d.png": "https://adizh.github.io/csb-h7q2p/static/media/problem.eb8e962d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae00dba3.js",
+    "static/css/2.050b219a.chunk.css",
+    "static/js/2.b93ac75e.chunk.js",
+    "static/css/main.3eb31789.chunk.css",
+    "static/js/main.e9f02e2a.chunk.js"
+  ]
+}
